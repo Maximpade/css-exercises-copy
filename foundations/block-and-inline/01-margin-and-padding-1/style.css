@@ -26,3 +26,7 @@ body {
   padding: 32px;
   margin-left: auto;
 }
+.pair{
+  display: flex;
+  max-width: 30px;
+}
